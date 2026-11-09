@@ -1,0 +1,323 @@
+[
+  {
+    "client_id": "user_rishitha_1790097738801",
+    "user_id": "user_rishitha_1790097738801",
+    "voice_id": "mock_voice_user_rishitha_1790097738801_c7e06dfc",
+    "provider": "elevenlabs",
+    "status": "active",
+    "voice_status": "ready",
+    "created_at": "2026-09-22T17:22:18.812Z",
+    "updated_at": "2026-09-22T17:22:18.812Z",
+    "metadata": {
+      "original_filename": "rishitha_voice.wav",
+      "file_size_bytes": 16044,
+      "mime_type": "audio/wav",
+      "description": "Telugu speaking voice clone for Rishitha",
+      "elevenlabs_name": "Rishitha Voice Sample",
+      "is_mock": true
+    }
+  },
+  {
+    "client_id": "user_suresh_1790097738814",
+    "user_id": "user_suresh_1790097738814",
+    "voice_id": "mock_voice_user_suresh_1790097738814_3aab5ab7",
+    "provider": "elevenlabs",
+    "status": "active",
+    "voice_status": "ready",
+    "created_at": "2026-09-22T17:22:18.819Z",
+    "updated_at": "2026-09-22T17:22:18.819Z",
+    "metadata": {
+      "original_filename": "suresh_voice.wav",
+      "file_size_bytes": 16044,
+      "mime_type": "audio/wav",
+      "description": "Voice clone for user user_suresh_1790097738814",
+      "elevenlabs_name": "Suresh Voice Sample",
+      "is_mock": true
+    }
+  },
+  {
+    "client_id": "user_curl_demo",
+    "user_id": "user_curl_demo",
+    "voice_id": "mock_voice_user_curl_demo_09d95a3c",
+    "provider": "elevenlabs",
+    "status": "active",
+    "voice_status": "ready",
+    "created_at": "2026-09-22T17:22:22.818Z",
+    "updated_at": "2026-09-22T17:22:22.818Z",
+    "metadata": {
+      "original_filename": "sample.wav",
+      "file_size_bytes": 44,
+      "mime_type": "audio/wav",
+      "description": "Voice clone for user user_curl_demo",
+      "elevenlabs_name": "User_user_curl_demo_Voice",
+      "is_mock": true
+    }
+  },
+  {
+    "client_id": "user_rishitha_1790097902219",
+    "user_id": "user_rishitha_1790097902219",
+    "voice_id": "mock_voice_user_rishitha_1790097902219_720e4b9b",
+    "provider": "elevenlabs",
+    "status": "active",
+    "voice_status": "ready",
+    "created_at": "2026-09-22T17:25:02.228Z",
+    "updated_at": "2026-09-22T17:25:02.229Z",
+    "metadata": {
+      "original_filename": "rishitha_voice.wav",
+      "file_size_bytes": 16044,
+      "mime_type": "audio/wav",
+      "description": "Telugu speaking voice clone for Rishitha",
+      "elevenlabs_name": "Rishitha Voice Sample",
+      "is_mock": true
+    }
+  },
+  {
+    "client_id": "user_suresh_1790097902230",
+    "user_id": "user_suresh_1790097902230",
+    "voice_id": "mock_voice_user_suresh_1790097902230_c15675c5",
+    "provider": "elevenlabs",
+    "status": "active",
+    "voice_status": "ready",
+    "created_at": "2026-09-22T17:25:02.234Z",
+    "updated_at": "2026-09-22T17:25:02.234Z",
+    "metadata": {
+      "original_filename": "suresh_voice.wav",
+      "file_size_bytes": 16044,
+      "mime_type": "audio/wav",
+      "description": "Voice clone for user user_suresh_1790097902230",
+      "elevenlabs_name": "Suresh Voice Sample",
+      "is_mock": true
+    }
+  },
+  {
+    "client_id": "user_A",
+    "user_id": "user_A",
+    "voice_id": "mock_voice_user_A_88a837c8",
+    "provider": "elevenlabs",
+    "status": "active",
+    "voice_status": "ready",
+    "created_at": "2026-09-22T17:30:49.419Z",
+    "updated_at": "2026-09-22T17:30:49.419Z",
+    "metadata": {
+      "original_filename": "user_A.wav",
+      "file_size_bytes": 44,
+      "mime_type": "audio/wav",
+      "description": "Voice clone for user user_A",
+      "elevenlabs_name": "User_user_A_Voice",
+      "is_mock": true
+    }
+  },
+  {
+    "client_id": "user_B",
+    "user_id": "user_B",
+    "voice_id": "mock_voice_user_B_53024a48",
+    "provider": "elevenlabs",
+    "status": "active",
+    "voice_status": "ready",
+    "created_at": "2026-09-22T17:30:53.156Z",
+    "updated_at": "2026-09-22T17:30:53.156Z",
+    "metadata": {
+      "original_filename": "user_B.wav",
+      "file_size_bytes": 44,
+      "mime_type": "audio/wav",
+      "description": "Voice clone for user user_B",
+      "elevenlabs_name": "User_user_B_Voice",
+      "is_mock": true
+    }
+  },
+  {
+    "client_id": "user_C",
+    "user_id": "user_C",
+    "voice_id": "mock_voice_user_C_f8e6972a",
+    "provider": "elevenlabs",
+    "status": "active",
+    "voice_status": "ready",
+    "created_at": "2026-09-22T17:31:08.131Z",
+    "updated_at": "2026-09-22T17:31:08.131Z",
+    "metadata": {
+      "original_filename": "test-voice-cloning.ts",
+      "file_size_bytes": 8044,
+      "mime_type": "audio/wav",
+      "description": "Voice clone for user user_C",
+      "elevenlabs_name": "User_user_C_Voice",
+      "is_mock": true
+    }
+  },
+  {
+    "client_id": "client_e2e_1790406324608",
+    "user_id": "client_e2e_1790406324608",
+    "voice_id": "zI5v2flsMQuNHTfs68Cu",
+    "provider": "elevenlabs",
+    "status": "archived",
+    "voice_status": "archived",
+    "created_at": "2026-09-26T07:05:28.733Z",
+    "updated_at": "2026-09-26T07:05:34.698Z",
+    "metadata": {
+      "original_filename": "sample_voice_sample.wav",
+      "file_size_bytes": 96044,
+      "mime_type": "audio/wav"
+    }
+  },
+  {
+    "client_id": "client_e2e_1790406324608",
+    "user_id": "client_e2e_1790406324608",
+    "voice_id": "KDl3cjQzCm53RntwTgrY",
+    "provider": "elevenlabs",
+    "status": "active",
+    "voice_status": "ready",
+    "created_at": "2026-09-26T07:05:34.698Z",
+    "updated_at": "2026-09-26T07:05:34.698Z",
+    "metadata": {}
+  },
+  {
+    "client_id": "client_e2e_1790406351682",
+    "user_id": "client_e2e_1790406351682",
+    "voice_id": "kEQ3zzDwlCZeANq2QmtT",
+    "provider": "elevenlabs",
+    "status": "archived",
+    "voice_status": "archived",
+    "created_at": "2026-09-26T07:05:55.852Z",
+    "updated_at": "2026-09-26T07:06:00.265Z",
+    "metadata": {
+      "original_filename": "sample_voice_sample.wav",
+      "file_size_bytes": 96044,
+      "mime_type": "audio/wav"
+    }
+  },
+  {
+    "client_id": "client_e2e_1790406351682",
+    "user_id": "client_e2e_1790406351682",
+    "voice_id": "j1Co9NZomUeUcjaBtudA",
+    "provider": "elevenlabs",
+    "status": "active",
+    "voice_status": "ready",
+    "created_at": "2026-09-26T07:06:00.264Z",
+    "updated_at": "2026-09-26T07:06:00.265Z",
+    "metadata": {}
+  },
+  {
+    "client_id": "client_e2e_1790406371520",
+    "user_id": "client_e2e_1790406371520",
+    "voice_id": "K2Y1LlOEnSh1dqFr1goI",
+    "provider": "elevenlabs",
+    "status": "archived",
+    "voice_status": "archived",
+    "created_at": "2026-09-26T07:06:13.531Z",
+    "updated_at": "2026-09-26T07:06:19.215Z",
+    "metadata": {
+      "original_filename": "sample_voice_sample.wav",
+      "file_size_bytes": 96044,
+      "mime_type": "audio/wav"
+    }
+  },
+  {
+    "client_id": "client_e2e_1790406371520",
+    "user_id": "client_e2e_1790406371520",
+    "voice_id": "W1124hALWKH0NKdHFDB6",
+    "provider": "elevenlabs",
+    "status": "active",
+    "voice_status": "ready",
+    "created_at": "2026-09-26T07:06:19.214Z",
+    "updated_at": "2026-09-26T07:06:19.215Z",
+    "metadata": {}
+  },
+  {
+    "client_id": "client_http_1790406383263",
+    "user_id": "client_http_1790406383263",
+    "voice_id": "voice_client_http_1790406383263_f4b78279",
+    "provider": "elevenlabs",
+    "status": "active",
+    "voice_status": "ready",
+    "created_at": "2026-09-26T07:06:23.691Z",
+    "updated_at": "2026-09-26T07:06:23.691Z",
+    "preview_audio_url": "/api/voice-profile/preview-audio/voice_client_http_1790406383263_f4b78279",
+    "metadata": {
+      "original_filename": "test_voice.wav",
+      "file_size_bytes": 16044,
+      "mime_type": "audio/wav",
+      "description": "Telugu Public Survey cloned voice for client_http_1790406383263",
+      "elevenlabs_name": "Client_client_http_1790406383263_Voice_1790406383384",
+      "is_mock": true
+    }
+  },
+  {
+    "client_id": "client_001",
+    "user_id": "client_001",
+    "voice_id": "voice_client_001_cc85afe8",
+    "provider": "elevenlabs",
+    "status": "active",
+    "voice_status": "ready",
+    "created_at": "2026-09-26T07:09:39.311Z",
+    "updated_at": "2026-09-26T07:09:39.312Z",
+    "metadata": {
+      "original_filename": "recording.mp3",
+      "file_size_bytes": 16044,
+      "mime_type": "audio/mpeg",
+      "is_mock": true
+    }
+  },
+  {
+    "client_id": "user_rishitha_1790406579329",
+    "user_id": "user_rishitha_1790406579329",
+    "voice_id": "voice_user_rishitha_1790406579329_7590b55e",
+    "provider": "elevenlabs",
+    "status": "active",
+    "voice_status": "ready",
+    "created_at": "2026-09-26T07:09:39.572Z",
+    "updated_at": "2026-09-26T07:09:39.572Z",
+    "metadata": {
+      "original_filename": "rishitha_voice.wav",
+      "file_size_bytes": 16044,
+      "mime_type": "audio/wav",
+      "is_mock": true
+    }
+  },
+  {
+    "client_id": "user_suresh_1790406579575",
+    "user_id": "user_suresh_1790406579575",
+    "voice_id": "voice_user_suresh_1790406579575_e36e9e4c",
+    "provider": "elevenlabs",
+    "status": "active",
+    "voice_status": "ready",
+    "created_at": "2026-09-26T07:09:39.823Z",
+    "updated_at": "2026-09-26T07:09:39.823Z",
+    "metadata": {
+      "original_filename": "suresh_voice.wav",
+      "file_size_bytes": 16044,
+      "mime_type": "audio/wav",
+      "is_mock": true
+    }
+  },
+  {
+    "client_id": "user_rishitha_1790406599588",
+    "user_id": "user_rishitha_1790406599588",
+    "voice_id": "voice_user_rishitha_1790406599588_c92ed720",
+    "provider": "elevenlabs",
+    "status": "active",
+    "voice_status": "ready",
+    "created_at": "2026-09-26T07:09:59.877Z",
+    "updated_at": "2026-09-26T07:09:59.877Z",
+    "metadata": {
+      "original_filename": "rishitha_voice.wav",
+      "file_size_bytes": 16044,
+      "mime_type": "audio/wav",
+      "is_mock": true
+    }
+  },
+  {
+    "client_id": "user_suresh_1790406599879",
+    "user_id": "user_suresh_1790406599879",
+    "voice_id": "voice_user_suresh_1790406599879_10653000",
+    "provider": "elevenlabs",
+    "status": "active",
+    "voice_status": "ready",
+    "created_at": "2026-09-26T07:10:00.129Z",
+    "updated_at": "2026-09-26T07:10:00.129Z",
+    "metadata": {
+      "original_filename": "suresh_voice.wav",
+      "file_size_bytes": 16044,
+      "mime_type": "audio/wav",
+      "is_mock": true
+    }
+  }
+]

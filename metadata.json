@@ -1,0 +1,7 @@
+{
+  "name": "Telugu Public Survey AI Voice Agent",
+  "description": "Natural, respectful, and voice-ready Telugu public survey interviewer communicating exclusively in authentic Telugu script.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
